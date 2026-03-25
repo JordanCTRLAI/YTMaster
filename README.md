@@ -1,13 +1,13 @@
-<div align="center">
+<h1 align="center">🔴 YTMaster</h1>
+<p align="center"><b>Curadoria Inteligente, Indexação e Automação de Playlists</b></p>
 
-# 🔴 YTMaster
-**Curadoria Inteligente, Indexação e Automação de Playlists**
+<p align="center">
+  <a href="https://github.com/JordanCTRLAI/YTMaster/releases/latest">
+    <img src="https://img.shields.io/badge/📥_BAIXAR_AGORA-Versão_Mais_Recente-E50914?style=for-the-badge&logo=windows" alt="Baixar YTMaster">
+  </a>
+</p>
 
-[![Baixar YTMaster](https://img.shields.io/badge/📥_BAIXAR_AGORA-Versão_Mais_Recente-E50914?style=for-the-badge&logo=windows)](https://github.com/JordanCTRLAI/YTMaster/releases/latest)
-
-*Transforme horas de vídeo em playlists oficiais e organizadas na sua conta do YouTube em questão de minutos.*
-
-</div>
+<p align="center"><i>Transforme horas de vídeo em playlists oficiais e organizadas na sua conta do YouTube em questão de minutos.</i></p>
 
 ---
 
@@ -46,11 +46,7 @@ O YTMaster possui uma interface moderna (Dark Mode nativo) focada em automação
 
 ## 🛠️ Como Funciona?
 
-<div align="center">
-
-**1. Insira o Link do Show** ➡️ **2. Clique em "Analisar Mixtape"** ➡️ **3. Playlist Criada no seu YouTube!**
-
-</div>
+<p align="center"><b>1. Insira o Link do Show ➡️ 2. Clique em "Analisar Mixtape" ➡️ 3. Playlist Criada no seu YouTube!</b></p>
 
 Em poucos minutos, o que levaria uma tarde inteira de curadoria manual estará pronto e sincronizado como uma nova playlist na sua conta, pronta para você ouvir no seu YouTube ou YouTube Music.
 
@@ -66,20 +62,13 @@ Em relação à integração com a sua conta do Google:
 - Todo o fluxo de autenticação é feito via OAuth 2.0 seguro, diretamente com o Google.
 
 Para total transparência técnica e jurídica, consulte nossa documentação oficial:
-- 📄 [Política de Privacidade](privacidade.md)
-- ⚖️ [Termos de Serviço](termos.md)
+- 📄 <a href="privacidade.md">Política de Privacidade</a>
+- ⚖️ <a href="termos.md">Termos de Serviço</a>
 
 ---
 
-<div align="center">
-
-### 📞 Contato e Suporte
-Dúvidas sobre a criação de playlists, integração com a API do YouTube ou suporte técnico? Nossa equipe está à disposição.
-
-✉️ **Email de Suporte:** [ctrlaistudios@gmail.com](mailto:ctrlaistudios@gmail.com)
-
+<h3 align="center">📞 Contato e Suporte</h3>
+<p align="center">Dúvidas sobre a criação de playlists, integração com a API do YouTube ou suporte técnico? Nossa equipe está à disposição.</p>
+<p align="center">✉️ <b>Email de Suporte:</b> <a href="mailto:ctrlaistudios@gmail.com">ctrlaistudios@gmail.com</a></p>
 <br>
-
-*YTMaster © 2026 Ctrl+AI Studios. Todos os direitos reservados.*
-
-</div>
+<p align="center"><i>YTMaster © 2026 Ctrl+AI Studios. Todos os direitos reservados.</i></p>
