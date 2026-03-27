@@ -1,0 +1,12 @@
+# Política de Segurança do YTMaster
+
+A Ctrl+AI Studios leva a segurança do nosso software e dos usuários muito a sério.
+
+## Versões Suportadas
+No momento, apenas a versão mais recente (Latest Release) recebe atualizações de segurança.
+
+## Como relatar uma vulnerabilidade
+Se você descobrir um problema de segurança no YTMaster, por favor, **NÃO** crie uma *Issue* pública no GitHub. 
+
+Em vez disso, envie um e-mail diretamente para: **ctrlaistudios@gmail.com**.
+Tentaremos responder o mais rápido possível para investigar e lançar um patch de correção.
